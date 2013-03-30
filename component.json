@@ -1,0 +1,13 @@
+{
+  "name": "underscore",
+  "repo": "madebybottle/underscore",
+  "description": "The lodash implementation of underscore wrapped for Component",
+  "version": "1.1.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js",
+    "lodash.underscore.js"
+  ]
+}
