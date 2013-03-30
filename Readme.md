@@ -5,11 +5,11 @@
 
 ## Installation
 
-    $ component install a/underscore
+    $ component install madebybottle/underscore
 
 ## API
 
-   
+
 
 ## License
 
