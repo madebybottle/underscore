@@ -1,1 +1,1 @@
-module.exports = require('./lodash.underscore');
+module.exports = require('./lodash.underscore')._;
